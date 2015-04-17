@@ -4,9 +4,9 @@ Installation
 
 At the command line::
 
-    $ easy_install sysgit
+    $ easy_install pysysgit
 
 Or, if you have virtualenvwrapper installed::
 
-    $ mkvirtualenv sysgit
-    $ pip install sysgit
+    $ mkvirtualenv pysysgit
+    $ pip install pysysgit

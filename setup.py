@@ -29,7 +29,7 @@ setup(
     long_description=readme + '\n\n' + history,
     author="Steven Willis",
     author_email='onlynone@gmail.com',
-    url='https://github.com/onlynone/sysgit',
+    url='https://github.com/onlynone/pysysgit',
     packages=[
         'sysgit',
     ],

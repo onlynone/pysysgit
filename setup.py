@@ -19,7 +19,7 @@ requirements = [
 ]
 
 setup(
-    name='sysgit',
+    name='pysysgit',
     version='0.1.0',
     description="Utility to call git from python",
     long_description=readme + '\n\n' + history,
